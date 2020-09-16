@@ -34,5 +34,23 @@
             "year": 2009,
             "cover": "https://img.discogs.com/jtGSLveYbkQhgqwg_fPzcuSrkGk=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1237576-1481727090-8787.jpeg.jpg"
         }
+    },
+    {
+        "artist": "Colin Vearncombe",
+        "track": "Just Making Memories",
+        "album": {
+            "title": "Wonderful Life",
+            "year": 1987,
+            "cover": "https://upload.wikimedia.org/wikipedia/en/1/12/Wonderful_life_%28cover%29.jpg"
+        }
+    },
+    {
+        "artist": "Colin Vearncombe",
+        "track": "The Big One",
+        "album": {
+            "title": "Comedy",
+            "year": 1988,
+            "cover": "https://img.discogs.com/53mqkb9SZ9tf_Rfqz9WztkTmYjQ=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2105188-1353009498-9395.jpeg.jpg"
+        }
     }
 ]
