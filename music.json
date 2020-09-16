@@ -16,5 +16,14 @@
             "year": 1987,
             "cover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Wonderful_Life_Black.jpg"
         }
+    },
+    {
+        "artist": "Colin Vearncombe",
+        "track": "When It's Over",
+        "album": {
+            "title": "Blind Faith",
+            "year": 2015,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/41tM5Tnf43L._SY355_.jpg"
+        }
     }
 ]
