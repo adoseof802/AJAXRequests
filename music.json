@@ -61,5 +61,14 @@
             "year": 1987,
             "cover": "https://img.discogs.com/h34JuU1oBv93GyQOEGwitJtkgsI=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680676-1348292943-9067.jpeg.jpg"
         }
+    },
+    {
+        "artist": "Colin Vearncombe",
+        "track": "Fly Up To The Moon",
+        "album": {
+            "title": "Black",
+            "year": 1991,
+            "cover": "https://lh3.googleusercontent.com/proxy/QFqnv3oOYv7JAxJa5hCnXPoO5J_7d5z7tSGyB-4PEsn0ZRDpmZgJBxRqqqbwR0xaTLtpAsa-Hs-qOZ42WQE3v9CNnZPA4GFS8-MgBDc0DOcSDdBWRJ7DMCxDYTmBs7kHSLO-mg"
+        }
     }
 ]
