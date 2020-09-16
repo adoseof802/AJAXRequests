@@ -1,0 +1,20 @@
+[
+    {
+        "artist": "Colin Vearncombe",
+        "track": "Now You're Gone",
+        "album": {
+            "title": "Comedy",
+            "year": 1988,
+            "cover": "https://upload.wikimedia.org/wikipedia/en/3/30/Black_-_comedy.jpg"
+        }
+    },
+    {
+        "artist": "Colin Vearncombe",
+        "track": "Wonderful Life",
+        "album": {
+            "title": "Wonderful Life",
+            "year": 1987,
+            "cover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Wonderful_Life_Black.jpg"
+        }
+    }
+]
