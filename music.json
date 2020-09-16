@@ -79,5 +79,14 @@
             "year": 2011,
             "cover": "https://img.discogs.com/htNNUIZySwWGwjcL-CvFa5cRNRc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3107181-1316096470.jpeg.jpg"
         }
+    },
+    {
+        "artist": "Colin Vearncombe",
+        "track": "Tomorrow Is Another Night (2011 Remix)",
+        "album": {
+            "title": "Any Colour You Like",
+            "year": 2011,
+            "cover": "https://f4.bcbits.com/img/a0336276351_10.jpg"
+        } 
     }
 ]
