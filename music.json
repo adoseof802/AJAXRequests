@@ -25,5 +25,14 @@
             "year": 2015,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/41tM5Tnf43L._SY355_.jpg"
         }
+    },
+    {
+        "artist": "Colin Vearncombe",
+        "track": "Tomorrow Is Another Night",
+        "album": {
+            "title": "Water On Snow",
+            "year": 2009,
+            "cover": "https://img.discogs.com/jtGSLveYbkQhgqwg_fPzcuSrkGk=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1237576-1481727090-8787.jpeg.jpg"
+        }
     }
 ]
