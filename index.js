@@ -25,6 +25,7 @@ request.addEventListener('readystatechange', function () {
             image.addEventListener("click", function () {
                 console.log(audio);
                 audio.src = tracks[index].access;
+                audio.setAttribute("autoplay", "1");
             })
         })
     }
