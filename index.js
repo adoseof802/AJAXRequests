@@ -1,5 +1,5 @@
 var request = new XMLHttpRequest();
-var pathURL = "https://adoseof802.github.io/AJAXRequests/music.json";
+var pathURL = "https://mandyfarrugia2001.github.io/AJAXRequests/music.json";
 var requestType = "GET";
 
 request.addEventListener('readystatechange', function () {
