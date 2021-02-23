@@ -1,6 +1,15 @@
 [
     {
         "artist": "Colin Vearncombe",
+        "track": "Everything Is Coming Up Roses",
+        "album": {
+            "title": "Wonderful Life",
+            "year": 1987,
+            "cover": "https://img.discogs.com/vOoecgjah6eKldvJl5eJ2Xvoklo=/fit-in/590x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2090960-1400680251-8720.jpeg.jpg"
+        }
+    },
+    {
+        "artist": "Colin Vearncombe",
         "track": "Now You're Gone",
         "album": {
             "title": "Comedy",
