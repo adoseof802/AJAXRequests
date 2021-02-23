@@ -37,6 +37,12 @@ iframe {
     top: 0;
 }
 
+footer {
+    background-color: #eeeeee;
+    opacity: .8;
+    text-align: center;
+}
+
 @media (min-width: 768px) {
     img {
         width: 30%;
