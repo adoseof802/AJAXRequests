@@ -9,6 +9,7 @@ body {
     background-image: url('https://foxesofleicester.com/wp-content/uploads/getty-images/2017/12/875715624-liverpool-v-southampton-premier-league.jpg.jpg');
     background-size: cover;
     background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
