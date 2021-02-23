@@ -41,5 +41,6 @@ iframe {
     img {
         width: 30%;
         margin: .5% 0;
+        margin-bottom: 20px;
     }
 }
