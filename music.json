@@ -1,6 +1,16 @@
 [
     {
         "artist": "Colin Vearncombe",
+        "track": "Hey, I Was Right, You Were Right",
+        "album": {
+            "title": "Comedy",
+            "year": 1988,
+            "cover": "https://www.bing.com/images/blob?bcid=RPo0EAig9m4Cug"
+        },
+        "access": "https://drive.google.com/file/d/1i0cq5y289Vq8d6W3qXUcQ6xs2581NqF_/preview?usp=sharing"
+    },
+    {
+        "artist": "Colin Vearncombe",
         "track": "Everything Is Coming Up Roses",
         "album" : {
             "title" : "Road To Nowhere (Live)",
