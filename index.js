@@ -2,9 +2,11 @@ var request = new XMLHttpRequest();
 var pathURL = "https://mandyfarrugia2001.github.io/AJAXRequests/music.json";
 var requestType = "GET";
 
+var container = document.querySelector('.container');
+
 request.addEventListener('readystatechange', function () {
 
-    if (this.readyState == 4 && this.status == 200) {
+    if ((this.readyState == 4 && this.status == 200)) {
         var tracks = JSON.parse(this.response);
         tracks.sort(function (a, b) {
             return a.album.year - b.album.year;
@@ -12,7 +14,7 @@ request.addEventListener('readystatechange', function () {
         tracks.forEach((track) => {
             var imageHolder = document.createElement('img');
             imageHolder.src = track.album.cover;
-            document.body.appendChild(imageHolder);
+            container.appendChild(imageHolder);
             console.log(track.album.title);
         })
 
