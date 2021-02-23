@@ -1,6 +1,15 @@
 [
     {
         "artist": "Colin Vearncombe",
+        "track": "Paradise",
+        "album": {
+            "title": "Wonderful Life",
+            "year": 1987,
+            "cover": "https://www.bing.com/images/blob?bcid=RIWsa4iqaG4C0g"
+        }
+    },
+    {
+        "artist": "Colin Vearncombe",
         "track": "Everything Is Coming Up Roses",
         "album": {
             "title": "Wonderful Life",
