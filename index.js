@@ -1,6 +1,6 @@
 var request = new XMLHttpRequest();
-var pathURL = "https://mandyfarrugia2001.github.io/AJAXRequests/music.json";
-var requestType = "GET";
+var pathURL = 'https://mandyfarrugia2001.github.io/AJAXRequests/music.json';
+var requestType = 'GET';
 
 var container = document.querySelector('.container');
 
