@@ -29,13 +29,10 @@ iframe {
     border: none;
     height: 100px;
     margin-bottom: 10px;
-    width: 100%;
-}
-
-iframe {
     opacity: 0.9;
     position: sticky;
     top: 0;
+    width: 100%;
 }
 
 footer {
