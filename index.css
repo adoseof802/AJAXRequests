@@ -20,6 +20,7 @@ body {
 img {
     box-shadow: 3px 3px 3px #000;
     margin: 2% 0;
+    margin-bottom: 20px;
     width: 60%;
 }
 
